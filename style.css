@@ -1,0 +1,74 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.text {
+    color: coral;
+}
+
+.upper {
+    display: flex;
+}
+
+.front {
+    width: 50%;
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-right: 15px;
+
+
+}
+
+.front img {
+    width: 100%;
+
+}
+
+.anchor {
+    text-decoration: none;
+    background-color: lightcoral;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: azure;
+
+}
+
+span {
+    color: aquamarine;
+}
+
+.bg {
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.down {
+    padding-top: 100px;
+    background-image: url("dr.png");
+
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 460px;
+
+}
+
+.xp {
+    display: flex;
+}
